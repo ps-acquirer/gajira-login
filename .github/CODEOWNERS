@@ -1,1 +1,2 @@
 .github/workflows/jira_integration.yml @ps-acquirer/CodeOwnersMazagon
+.github/CODEOWNERS @ps-acquirer/CodeOwnersMazagon
